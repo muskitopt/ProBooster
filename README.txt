@@ -3,6 +3,8 @@ This program is perfect for you if you only have one account that you want to bo
 BDArt.pt - ProBooster is using the same code as the SingleBostr.
 Thanks to Ezzpify for making available and assisting in the creation of this version still in Beta phase.
 
+Video: https://www.youtube.com/watch?v=Blfo9Y9tXwI
+
 More info: 
 www.bdart.pt
 www.steamcommunity.com/groups/BDArtpt
