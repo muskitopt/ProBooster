@@ -14,6 +14,8 @@ Thanks to Ezzpify for making available and assisting in the creation of this ver
 
 # Program preview: 
 
+Old video preview: https://www.youtube.com/watch?v=Blfo9Y9tXwI
+
 ![Preview](https://i.imgur.com/4ysDeA7.png)
 
 ![Preview](https://i.imgur.com/HdA6p54.png)
