@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/k958ReV.png"/>
-  <h2 align="center"><a href="https://github.com/muskitopt/ProBooster">DOWNLOAD HERE</a></h2>
+  <h2 align="center"><a href="https://github.com/muskitopt/ProBooster">discontinued</a></h2>
 </p>
 
 [![Steam Group](https://img.shields.io/badge/Steam-group-yellowgreen.svg)](www.steamcommunity.com/groups/BDArtpt)
